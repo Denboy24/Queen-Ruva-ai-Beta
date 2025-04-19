@@ -11,9 +11,9 @@ global.autobio = false //auto update bio
 global.anti91 = false //auto block +91 
 global.autoswview = true //auto view status/story
 global.antilinkMode = true; // Default: disabled
-global.ownernomer = "263786115435"
-global.ownername = "𝚚𝚞𝚎𝚎𝚗-𝚛𝚞𝚟𝚊 𝙰𝙸"
-global.ownernumber = '263786115435' 
+global.ownernomer = "263789085533"
+global.ownername = "𝐷𝐸ℕ𝐵𝙊𝑌☆"
+global.ownernumber = '263789085533' 
 
 module.exports = {
     // ... other settings ...
@@ -36,7 +36,7 @@ global.reactSettings = {
 global.ytname = "YT: https://www.youtube.com/@iconic-tech"; 
 global.socialm = "GitHub: https://github.com/kineboii"; 
 global.location = "zimbabwe/bulawayo";
-global.ownername = "iconic tech";
+global.ownername = "𝐷𝐸ℕ𝐵𝙊𝑌☆";
 global.botname = "ǫᴜᴇᴇɴ ʀᴜᴠᴀ ᴀɪ"; 
 
 global.packname = "ʀᴏʙᴏᴛɪᴄ"; 
